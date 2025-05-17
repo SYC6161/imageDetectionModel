@@ -1,0 +1,3 @@
+C:/Users/salih/Desktop/OpenCvC++/build/CMakeFiles/OpenCVApp.dir
+C:/Users/salih/Desktop/OpenCvC++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/salih/Desktop/OpenCvC++/build/CMakeFiles/ZERO_CHECK.dir
